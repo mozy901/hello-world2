@@ -1,2 +1,10 @@
 # hello-world2
-trying git
+
+trying =git
+
+#include  <stdio.h>
+int main(void){
+printf ("hello" );
+
+    
+}
